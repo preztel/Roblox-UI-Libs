@@ -513,8 +513,6 @@ do
         Utility.RemoveDrawing(MiddleIcon)
         Utility.RemoveDrawing(WindowImage)
         --
-        UserInput.MouseIconEnabled = false
-        --
         return Window
     end
 end
